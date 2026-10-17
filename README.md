@@ -10,11 +10,15 @@ Estou em busca de uma oportunidade como **Desenvolvedor Junior**. Estudo desenvo
 
 ## Projeto em destaque
 
-### [Lista de Tarefas](https://github.com/maletoli/Meu-JS)
+### [Escudo Python](https://github.com/maletoli/escudo-python)
 
-Aplicação web feita com HTML, CSS e JavaScript. Adiciona tarefas dinamicamente, valida entradas vazias e mostra mensagens ao usuário.
+Framework didático em Python que mostra como proteger a lógica importante de um software mantendo essa parte em um servidor. Inclui cliente, servidor de exemplo, interface e instruções simples para testar no computador.
 
-[Ver código](https://github.com/maletoli/Meu-JS) · [Abrir demonstração](https://maletoli.github.io/Meu-JS/)
+[Ver projeto e como usar](https://github.com/maletoli/escudo-python#readme)
+
+## Outros projetos
+
+- [Lista de Tarefas](https://github.com/maletoli/Meu-JS) — aplicação web em HTML, CSS e JavaScript. [Abrir demonstração](https://maletoli.github.io/Meu-JS/).
 
 ## Contato
 
