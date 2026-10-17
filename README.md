@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, sou Gabriel Lima 👋
 
-<!--
-**maletoli/maletoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou em busca de uma oportunidade como **Desenvolvedor .NET Júnior**. Estudo desenvolvimento de software e cibersegurança e gosto de transformar o que aprendo em projetos práticos.
 
-Here are some ideas to get you started:
+## Áreas de interesse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Desenvolvimento:** .NET e fundamentos de engenharia de software.
+- **Web:** HTML, CSS e JavaScript.
+- **Segurança:** Linux, redes e fundamentos de cibersegurança.
+
+## Projeto em destaque
+
+### [Lista de Tarefas](https://github.com/maletoli/Meu-JS)
+
+Aplicação web feita com HTML, CSS e JavaScript. Adiciona tarefas dinamicamente, valida entradas vazias e mostra mensagens ao usuário.
+
+[Ver código](https://github.com/maletoli/Meu-JS) · [Abrir demonstração](https://maletoli.github.io/Meu-JS/)
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-lima-428428371/)
