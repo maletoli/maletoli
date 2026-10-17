@@ -10,11 +10,11 @@ Estou em busca de uma oportunidade como **Desenvolvedor Junior**. Estudo desenvo
 
 ## Projeto em destaque
 
-### [Escudo Python](https://github.com/maletoli/escudo-python)
+### [EnginnerSecurity](https://github.com/maletoli/EnginnerSecurity)
 
 Framework didático em Python que mostra como proteger a lógica importante de um software mantendo essa parte em um servidor. Inclui cliente, servidor de exemplo, interface e instruções simples para testar no computador.
 
-[Ver projeto e como usar](https://github.com/maletoli/escudo-python#readme)
+[Ver projeto e como usar](https://github.com/maletoli/EnginnerSecurity#readme)
 
 ## Outros projetos
 
