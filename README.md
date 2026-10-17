@@ -1,10 +1,10 @@
 # Olá, sou Gabriel Lima 👋
 
-Estou em busca de uma oportunidade como **Desenvolvedor .NET Júnior**. Estudo desenvolvimento de software e cibersegurança e gosto de transformar o que aprendo em projetos práticos.
+Estou em busca de uma oportunidade como **Desenvolvedor Junior**. Estudo desenvolvimento de software e cibersegurança e gosto de transformar o que aprendo em projetos práticos.
 
 ## Áreas de interesse
 
-- **Desenvolvimento:** .NET e fundamentos de engenharia de software.
+- **Desenvolvimento:** fundamentos de engenharia de software.
 - **Web:** HTML, CSS e JavaScript.
 - **Segurança:** Linux, redes e fundamentos de cibersegurança.
 
